@@ -1,7 +1,7 @@
 numpy
-torch
-torchaudio
-torchvision
+torch==1.9.1
+torchaudio==0.9.1
+torchvision==0.10.1
 pandas
 Flask
 scikit-learn
