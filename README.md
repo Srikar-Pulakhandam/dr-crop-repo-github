@@ -1,4 +1,7 @@
-DR. CROP
+Title : DR. CROP
+
+Usage : 
+      Go to 34.100.167.221:5000 on your browser
 
 PROJECT THEME:   AGRO-TECH
 
